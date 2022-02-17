@@ -13,7 +13,7 @@ n-->[2,27,16,22,18,6]
 o(n<sup>2</sup>)
 
 
-**Dizi sıralandıktan sonra 18 sayısı *Average case* olarak belirlenir.**
+**Dizi sıralandıktan sonra 18 sayısı <u>*Average case*</u> olarak belirlenir.**
 
 
 ### **[7,3,5,8,2,9,4,15,6]** ilk 4 aşamasını gösteriniz?
