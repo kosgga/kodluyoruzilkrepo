@@ -1,6 +1,6 @@
 ## Merge Sort Projesi
 
-###Sort türüne göre aşamalar
+### Sort türüne göre aşamalar
 
  1.[16,21,11,8,12,22]<br>
  2.(16,21,11),(8,12,22)<br>
